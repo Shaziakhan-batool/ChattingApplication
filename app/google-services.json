@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967230673961",
+    "project_id": "chatting-application-b417c",
+    "storage_bucket": "chatting-application-b417c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967230673961:android:308c8fa132826a73ac7838",
+        "android_client_info": {
+          "package_name": "com.example.chattingapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBokZrjfZy4KsFpemj2PnkVTvMIyX0Zn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
